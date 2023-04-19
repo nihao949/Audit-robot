@@ -17,6 +17,7 @@
 特色资料,"广告标题","补充说明"字段内容,由输入的<特色资料>中获取,从“特色资料”中提取相关内容，并填写到对应列中
 车辆资料,"車身型式","車輛售價","出廠年份","車輛所在地","外觀車色","排氣量","車身號碼","行駛里程","變速系統","引擎燃料","排擋數","車門數","驅動方式","乘客數","車輛年式","領牌時間"等内容,由输入的<车辆资料>中获取,从“车辆资料”中提取相关内容，并填写到对应列中
 内容一致,,“Y”或“N”,"如果特色资料是“无”，则写“Y”。否则判断“车辆资料”和“特色资料”是否一致，一致写“Y”，不一致写“N”。"
+注意事项：你需要关注相同内容的不同表达方式，比如相同价格的不同表达（200万=2,000,000元）；相同年份的不同表达（民国101年=2012年）
 
 表格主体名称,定义
 厂牌/车系,汽车制造业的品牌/该品牌下的具体车型
@@ -51,6 +52,7 @@ Table Header, Description, Data Source, Filling Rules
 特色资料, "Title of Ad", "Supplementary description" field content, to be obtained from input <特色资料>, extract relevant content from "特色资料" and fill in the corresponding column
 车辆资料, "Body type", "Vehicle price", "Year of manufacture", "Location of vehicle", "Exterior color", "Engine capacity", "Vehicle identification number", "Mileage", "Transmission system", "Fuel type", "Gears", "Number of doors", "Drive mode", "Number of passengers", "Vehicle model year", "Registration date", etc. content, to be obtained from input <车辆资料>, extract relevant content from "车辆资料" and fill in the corresponding column
 内容一致,, "Y" or "N", If the 特色资料 is "None", write "Y". Otherwise, check if the "车辆资料" and "特色资料" are consistent. If they are consistent, write "Y". If they are not consistent, write "N".
+Note: You need to pay attention to different expressions of the same content, such as different expressions of the same price (200万=2,000,000元); different expressions of the same year (民国101年=2012年).
 
 Fill-in steps, Step content
 Step 1, Fill in vehicle information
