@@ -1,3 +1,8 @@
 规则,内容
 审核内容,"廠牌車款、出厂年份、车辆年式、排量、引擎燃料、车身顏色、領牌时间、行駛里程、售價、标题、特色说明"
 审核规则,"1. 只能出现一辆车的资料，如不能出现两个出售价格、两个行驶里程等；\n2. 特色说明不得带有非8891网址"
+
+Rule, Content
+Audit content,"Brand, Year of manufacture, Vehicle year, Displacement, Engine fuel, Body color, Plate issue time, Mileage, Selling price, Title, Special description"
+Audit rules,"1. Only one set of vehicle information is allowed; for example, there cannot be two selling prices or two mileages displayed.
+2. The special description cannot contain any non-8891 website URLs."
